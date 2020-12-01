@@ -1,0 +1,63 @@
+name = "Yuriy Arhipov Python Developer"
+email = "yuriyarhipov@gmail.com"
+website = "yura.cc"
+github = "https://github.com/yuriyarhipov"
+objective = "Python developer with a decade of experience"
+
+[[schools]]
+name = "Modern Humanitarian Academy"
+location = "Moscow, Russia"
+startdate = "2004"
+enddate = "2008"
+degrees = ["Bachelor's degree in Computer Science"]
+
+[[experiences]]
+position = "Django Developer"
+company = "ConsumerAffairs"
+location = "Tulsa, OK"
+points = [
+  "Migrated an application from Python 2 to Python 3.",
+  "Developed a new DTC platform.",
+  "Improved a CI/CD workflow with Docker.",
+  "Developed the brand dashboard.",
+  "Developed an internal analytics tool chain.",
+]
+
+[[experiences]]
+position = "Film Actor"
+company = "Movie People"
+location = "Los Angeles, CA"
+startdate = "Sep 1987"
+enddate = "Jan 2006"
+points = [
+  "Started in a supporting role in *Outrageous Future*, a hit comedy",
+  "Became the time-traveling mentor, Rufus in *Bill & Ted's Bodus Journey*",
+  "Final movie was a voice acting position in *Cars* as the character Fillmore, the green 1960 VW Bus"
+]
+
+[[experiences]]
+position = "Radar Technician"
+company = "United State Air Force"
+location = "Bossier City, LA"
+startdate = "Aug 1956"
+enddate = "Jul 1957"
+points = [
+  "Trained and practiced as a radar techinician at Barksdale Air Force Base",
+  "Moonlighted as a disc jockey at local radio station, KJOE",
+  "Labeled as an 'unproductive airman' by his superiors and was given a general discharge",
+  "Court-martialed three times, and also received many nonjudicial punishments and reprimands"
+]
+
+
+[[info]]
+name = "Some Quotes"
+points = [
+  "Some people see things that are and ask, Why? Some people dream of things that never were and ask, Why not? Some people have to go to work and don't have time for all that.",
+  "Don't tech your children to read... teach them to *question* what they read, teach them to question everything.",
+  "Trying to be happy by accumulating possessions is like trying to satisfy hunger by taping sanwiches all over your body",
+  "Have you ever noticed that anybody driving slower than you is an idiot and anyone going faster is a maniac?",
+  "Think off-center",
+  "It's all bullshit, and it's bad for ya",
+  "Not only do I not know what's going on, I wouldn't know what to do about it if I did.",
+  "Seven dirty words"
+]

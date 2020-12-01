@@ -1,0 +1,4 @@
+title = "Yuriy Arhipov - Python Developer"
+baseURL = "https://yura.cc"
+theme = "simple-resume"
+disableKinds = ["taxonomy", "term"]
